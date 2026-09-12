@@ -1,17 +1,10 @@
 <!-- ZxAlif-ID · profile README · dark-terminal · bilingual ID/EN -->
 <div align="center">
 
-```
-███████╗██╗  ██╗ █████╗ ██╗     ██╗███████╗    ██╗██████╗ 
-╚══███╔╝╚██╗██╔╝██╔══██╗██║     ██║██╔════╝    ██║██╔══██╗
-  ███╔╝  ╚███╔╝ ███████║██║     ██║█████╗█████╗██║██║  ██║
- ███╔╝   ██╔██╗ ██╔══██║██║     ██║██╔══╝╚════╝██║██║  ██║
-███████╗██╔╝ ██╗██║  ██║███████╗██║██║         ██║██████╔╝
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝         ╚═╝╚═════╝ 
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,60:0D1117&height=120&section=header&text=ZxAlif-ID&fontSize=32&fontColor=2BFF88&fontAlignY=34&desc=kernel%20%C2%B7%20GPU%20mobile%20%C2%B7%20security&descAlignY=56&descSize=16" alt="header" />
 
 <a href="https://github.com/ZxAlif-ID">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1300&color=2BFF88&center=true&vCenter=true&background=0D1117&width=560&lines=%24+whoami+%E2%80%94+ZxAlif-ID;Kernel+%26+low-level+GPU+enthusiast;Security+researcher+%C2%B7+LLM+red-team;Membangun+kernel%2C+membaca+sysfs.;Boot+the+kernel.+Own+the+metal." alt="terminal typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1300&color=2BFF88&center=true&vCenter=true&background=0D1117&width=560&lines=%24+whoami+%E2%80%94+ZxAlif-ID;%F0%9F%90%A7+Kernel+%26+low-level+GPU+enthusiast;%F0%9F%94%90+Security+researcher+%C2%B7+LLM+red-team;%F0%9F%9B%A0%EF%B8%8F+Membangun+kernel%2C+membaca+sysfs.;Boot+the+kernel.+Own+the+metal.+%F0%9F%9A%80" alt="terminal typing" />
 </a>
 
 </div>
@@ -38,12 +31,16 @@
 
 Repo publik aktif — kernel kustom & GPU mobile:
 
+<div align="center">
+
 <a href="https://github.com/ZxAlif-ID/Flavenz-Kernel-Peridot">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ZxAlif-ID&repo=Flavenz-Kernel-Peridot&theme=github_dark&hide_border=true&show_owner=true&description_lines_count=2" alt="Flavenz-Kernel-Peridot" />
+  <img src="https://img.shields.io/badge/%F0%9F%90%A7-Flavenz--Kernel--Peridot-2BFF88?style=for-the-badge&labelColor=0D1117&logo=linux&logoColor=white" alt="Flavenz-Kernel-Peridot" />
 </a>
 <a href="https://github.com/ZxAlif-ID/droidspaces-gpu">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ZxAlif-ID&repo=droidspaces-gpu&theme=github_dark&hide_border=true&show_owner=true&description_lines_count=2" alt="droidspaces-gpu" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%B1-droidspaces--gpu-1F6FEB?style=for-the-badge&labelColor=0D1117&logo=android&logoColor=white" alt="droidspaces-gpu" />
 </a>
+
+</div>
 
 > 🌐 **EN:** Active public repos — a custom kernel for POCO F6 (KernelSU
 > Next + SUSFS) and a verified guide/toolkit to use the real Adreno GPU
@@ -68,7 +65,7 @@ Repo publik aktif — kernel kustom & GPU mobile:
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZxAlif-ID&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub stats" />
+<img src="https://ghchart.rshah.org/2BFF88/ZxAlif-ID" alt="Kontribusi heatmap" width="640" />
 <img src="https://streak-stats.demolab.com?user=ZxAlif-ID&hide_border=true&background=00000000&locale=id" alt="Streak stats" />
 
 </div>
@@ -91,12 +88,14 @@ Repo publik aktif — kernel kustom & GPU mobile:
 
 <div align="center">
 
-```
+```bash
 └─$ exit 0
 ```
 
-![Profile views](https://komarev.com/ghpvb/?username=ZxAlif-ID&style=for-the-badge&color=0D1117&labelColor=0D1117)
+<img src="https://komarev.com/ghpvc/?username=ZxAlif-ID&style=for-the-badge&color=0D1117&labelColor=0D1117" alt="Profile views" />
 
 *© 2026 · dibangun di dalam terminal · built in a terminal*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1F6FEB&height=90&section=footer" alt="footer" width="100%" />
