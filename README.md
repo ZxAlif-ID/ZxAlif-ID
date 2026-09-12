@@ -39,10 +39,10 @@
 Repo publik aktif — kernel kustom & GPU mobile:
 
 <a href="https://github.com/ZxAlif-ID/Flavenz-Kernel-Peridot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZxAlif-ID&repo=Flavenz-Kernel-Peridot&theme=github_dark&hide_border=true&show_owner=true&description_lines_count=2" alt="Flavenz-Kernel-Peridot" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ZxAlif-ID&repo=Flavenz-Kernel-Peridot&theme=github_dark&hide_border=true&show_owner=true&description_lines_count=2" alt="Flavenz-Kernel-Peridot" />
 </a>
 <a href="https://github.com/ZxAlif-ID/droidspaces-gpu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZxAlif-ID&repo=droidspaces-gpu&theme=github_dark&hide_border=true&show_owner=true&description_lines_count=2" alt="droidspaces-gpu" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ZxAlif-ID&repo=droidspaces-gpu&theme=github_dark&hide_border=true&show_owner=true&description_lines_count=2" alt="droidspaces-gpu" />
 </a>
 
 > 🌐 **EN:** Active public repos — a custom kernel for POCO F6 (KernelSU
@@ -68,7 +68,7 @@ Repo publik aktif — kernel kustom & GPU mobile:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZxAlif-ID&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZxAlif-ID&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub stats" />
 <img src="https://streak-stats.demolab.com?user=ZxAlif-ID&hide_border=true&background=00000000&locale=id" alt="Streak stats" />
 
 </div>
